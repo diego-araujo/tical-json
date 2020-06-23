@@ -52,7 +52,7 @@
     },
     'attendees': [
       {
-        'email': 'tsilva@zimbra-testes.us-central1-a.c.bedu-tech-lab.internal',
+        'email': 'tsilva@demo.bedu.tech',
         'responseStatus': 'needsAction'
       },
       {
