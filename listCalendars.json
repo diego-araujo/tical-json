@@ -1,0 +1,19 @@
+{
+  'items': [
+   {
+      'summary': 'Agenda 1',
+      'timeZone': 'America/Sao_Paulo',
+      'id': 'pt.brazilian#agenda1@group.v.calendar.google.com'
+    },
+     {
+      'summary': 'Agenda 2',
+      'timeZone': 'America/Sao_Paulo',
+      'id': 'pt.brazilian#agenda2@group.v.calendar.google.com'
+    },
+    {
+      'summary': 'Agenda 3',
+      'timeZone': 'America/Sao_Paulo',
+      'id': 'pt.brazilian#agenda3@group.v.calendar.google.com'
+    }
+  ]
+}

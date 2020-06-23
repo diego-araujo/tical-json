@@ -1,0 +1,77 @@
+{
+  'updated': '2020-06-20T20:37:58.760Z',
+  'summary': 'Agenda 1',
+  'timeZone': 'America/Sao_Paulo',
+  'items': [
+     {
+    'status': 'confirmed',
+    'kind': 'calendar#event',
+     'start': {
+      'dateTime': '2020-06-23T13:00:00-03:00'
+    },
+     'end': {
+      'dateTime': '2020-06-23T14:00:00-03:00'
+    },
+    'description': 'Descri\xe7\xe3o do evento',
+    'created': '2020-06-23T19:55:19.000Z',
+    'iCalUID': '1jotdt8ogb9qifj0pm437i8dc8@google.com',
+    'reminders': {
+      'useDefault': True
+    },
+    'htmlLink': 'https://www.google.com/calendar/event?eid=MWpvdGR0OG9nYjlxaWZqMHBtNDM3aThkYzggZGllZ29AZGVtby5iZWR1LnRlY2g',
+    'sequence': 0,
+    'updated': '2020-06-23T19:55:58.911Z',
+    'summary': 'Titulo evento',
+   
+    'etag': '"3185884317822000"',
+    'location': 'Los Angeles, CA, EUA',
+    'conferenceData': {
+      'entryPoints': [
+        {
+          'entryPointType': 'video',
+          'uri': 'https://meet.google.com/vyr-wjdb-pia',
+          'label': 'meet.google.com/vyr-wjdb-pia'
+        },
+        {
+          'entryPointType': 'phone',
+          'regionCode': 'US',
+          'uri': 'tel:+1-513-570-5412',
+          'pin': '766000838',
+          'label': '+1 513-570-5412'
+        }
+      ],
+      'signature': 'ADR/mfN9q9guldTDrHkquhdXYzB5',
+      'conferenceSolution': {
+        'iconUri': 'https://lh5.googleusercontent.com/proxy/bWvYBOb7O03a7HK5iKNEAPoUNPEXH1CHZjuOkiqxHx8OtyVn9sZ6Ktl8hfqBNQUUbCDg6T2unnsHx7RSkCyhrKgHcdoosAW8POQJm_ZEvZU9ZfAE7mZIBGr_tDlF8Z_rSzXcjTffVXg3M46v',
+        'name': 'Google Meet',
+        'key': {
+          'type': 'hangoutsMeet'
+        }
+      },
+      'conferenceId': 'vyr-wjdb-pia'
+    },
+    'attendees': [
+      {
+        'email': 'tsilva@zimbra-testes.us-central1-a.c.bedu-tech-lab.internal',
+        'responseStatus': 'needsAction'
+      },
+      {
+        'responseStatus': 'accepted',
+        'organizer': True,
+        'email': 'diego@demo.bedu.tech',
+        'self': True
+      }
+    ],
+    'organizer': {
+      'self': True,
+      'email': 'diego@demo.bedu.tech'
+    },
+    'creator': {
+      'self': True,
+      'email': 'diego@demo.bedu.tech'
+    },
+    'id': '1jotdt8ogb9qifj0pm437i8dc8',
+    'hangoutLink': 'https://meet.google.com/vyr-wjdb-pia'
+  }
+  ]
+}
